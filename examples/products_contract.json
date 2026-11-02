@@ -1,0 +1,9 @@
+{
+  "table": "products",
+  "columns": {
+    "ProductID": {"type": "int", "required": true},
+    "ProductName": {"type": "string", "required": true},
+    "UnitPrice": {"type": "float"},
+    "LastModified": {"type": "int"}
+  }
+}
